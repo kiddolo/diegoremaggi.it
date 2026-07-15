@@ -1,120 +1,75 @@
 ---
-title: Privacy Policy
-description: How this site collects, uses, and protects personal data.
-translationKey: privacy
+title: Informativa sulla privacy
+description: Come questo sito tratta (o meglio, non tratta) i tuoi dati personali.
 ---
 
-This Privacy Policy explains how **[SITE_NAME]** ("we", "us", or "our")
-collects, uses, and protects information when you visit **[SITE_URL]**.
+Questa informativa spiega come **diegoremaggi.it** raccoglie e utilizza le
+informazioni quando lo visiti. In breve: **questo è un sito statico che non
+usa cookie, non ha strumenti di analisi e non ti traccia.**
 
-> Replace values in [BRACKETS] to customize this policy for your site.
-> This template is informational and not legal advice.
+Ultimo aggiornamento: **15 luglio 2026**.
 
-## 1. Who we are
+## Titolare
 
-- Website owner: **[OWNER_NAME / LEGAL_ENTITY]**
-- Contact email: **[CONTACT_EMAIL]**
-- Effective date: **[EFFECTIVE_DATE]**
-- Last updated: **[LAST_UPDATED_DATE]**
+- **Diego Remaggi**
+- Contatto: [diego.remaggi@pm.me](mailto:diego.remaggi@pm.me)
+- Sito: [diegoremaggi.it](https://diegoremaggi.it)
 
-## 2. Information we collect
+## Quali dati vengono trattati
 
-Depending on how you use this site, we may process:
+Il sito **non raccoglie direttamente alcun dato personale**: non ci sono form
+di registrazione, newsletter, sistemi di analisi del traffico né profilazione.
 
-- Usage data: pages viewed, referrer, browser, device type, and approximate
-  region.
-- Technical data: IP address, user agent, and performance/error logs.
-- Information you provide directly: email or message content when you contact us.
-- Comment data (if enabled): profile and comment metadata handled by
-  **[COMMENT_PROVIDER, e.g., Giscus/GitHub]**.
+L'unico trattamento avviene a livello di **hosting**: il sito è pubblicato
+tramite **GitHub Pages** (GitHub, Inc., Stati Uniti), che — come qualsiasi
+server web — può registrare dati tecnici quali indirizzo IP, tipo di browser
+e pagine richieste, allo scopo di erogare il servizio e garantirne la
+sicurezza. Questi log sono gestiti da GitHub secondo la sua
+[informativa sulla privacy](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
-## 3. How we use information
+## Cookie
 
-We use data to:
+Questo sito **non installa cookie**.
 
-- Operate and secure the site.
-- Understand traffic and improve content.
-- Respond to support or contact requests.
-- Prevent abuse, fraud, and malicious activity.
-- Comply with legal obligations.
+Per ricordare le tue preferenze di **tema** (chiaro/scuro) viene usato il
+`localStorage` del browser: è un'informazione salvata solo sul tuo
+dispositivo, non viene inviata ad alcun server e puoi cancellarla in qualsiasi
+momento svuotando i dati del sito dal browser.
 
-## 4. Cookies and similar technologies
+## Font e risorse esterne
 
-This site may use cookies or local storage for:
+Tutti i caratteri tipografici sono ospitati direttamente sul sito
+(self-hosted): non vengono effettuate chiamate a servizi di terze parti come
+Google Fonts. Eventuali video incorporati usano la modalità
+`youtube-nocookie`, che evita il tracciamento fino all'avvio della
+riproduzione.
 
-- Essential functionality (for example, saving theme preference).
-- Analytics (if enabled).
-- Third-party embeds or comment systems.
+## Link esterni
 
-You can control cookies through your browser settings. If your region requires
-consent banners, add one and configure it to your legal requirements.
+Il sito contiene link a piattaforme esterne (ad esempio GitHub e X/Twitter).
+Una volta che lasci questo sito, il trattamento dei tuoi dati è regolato dalle
+informative privacy di quei servizi, sulle quali non ho controllo.
 
-## 5. Analytics and third-party services
+## Contatti
 
-We may use third-party processors that collect information under their own
-privacy terms:
+Se mi scrivi via email, il contenuto del messaggio e il tuo indirizzo saranno
+trattati unicamente per risponderti, tramite il mio provider di posta, e non
+verranno usati per altri scopi né ceduti a terzi.
 
-- Hosting/CDN: **[HOSTING_PROVIDER]**
-- Analytics: **[ANALYTICS_PROVIDER or "Not used"]**
-- Comments: **[COMMENT_PROVIDER or "Not used"]**
-- Email/newsletter: **[EMAIL_PROVIDER or "Not used"]**
+## I tuoi diritti
 
-Please review each provider's privacy policy before using related features.
+In base al Regolamento europeo (GDPR), hai diritto di accedere ai tuoi dati,
+chiederne la rettifica o la cancellazione e opporti al loro trattamento.
+Poiché il sito non conserva dati personali, per qualsiasi richiesta relativa
+ai log di hosting puoi contattarmi all'indirizzo indicato sopra e ti aiuterò a
+indirizzarla correttamente.
 
-## 6. Legal basis (EEA/UK, if applicable)
+## Modifiche
 
-If GDPR or UK GDPR applies, we process data based on one or more of:
+Questa informativa può essere aggiornata nel tempo. Le modifiche sostanziali
+saranno segnalate aggiornando la data di "Ultimo aggiornamento" in cima alla
+pagina.
 
-- Consent
-- Legitimate interests
-- Contract performance
-- Legal obligation
+---
 
-Specify the legal basis in your data inventory for each processing activity.
-
-## 7. Data retention
-
-We retain data only as long as needed for the purposes above, including
-security and legal compliance.
-
-- Analytics data retention: **[RETENTION_PERIOD]**
-- Contact messages retention: **[RETENTION_PERIOD]**
-- Server logs retention: **[RETENTION_PERIOD]**
-
-## 8. International transfers
-
-If your providers process data outside your country, data transfer safeguards
-may apply (for example, Standard Contractual Clauses).
-
-## 9. Your privacy rights
-
-Depending on your location, you may have rights to access, correct, delete,
-restrict, or object to processing of your personal data.
-
-To make a request, contact: **[PRIVACY_CONTACT_EMAIL]**
-
-If you are in the EEA/UK, you may also lodge a complaint with your local data
-protection authority.
-
-## 10. Children's privacy
-
-This site is not directed to children under **[MINIMUM_AGE, e.g., 13 or 16]**.
-We do not knowingly collect personal data from children.
-
-## 11. Security
-
-We use reasonable technical and organizational safeguards, but no method of
-transmission or storage is 100% secure.
-
-## 12. Changes to this policy
-
-We may update this Privacy Policy from time to time. Changes are effective when
-posted on this page with an updated "Last updated" date.
-
-## 13. Contact
-
-For privacy questions, contact:
-
-- Name: **[PRIVACY_CONTACT_NAME]**
-- Email: **[PRIVACY_CONTACT_EMAIL]**
-- Address (optional): **[POSTAL_ADDRESS]**
+_Questo testo ha finalità informative e non costituisce consulenza legale._
