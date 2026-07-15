@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm install *)",
+      "Bash(bun --version)",
+      "Bash(rsync -a --exclude=.git /private/tmp/claude-501/-Users-diego-diegoremaggi/be0784ef-dcd8-43ec-b91a-620f7dfad2fe/scratchpad/chirping-astro/ /Users/diego/diegoremaggi/)",
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(bun install *)",
+      "Bash(bun run *)",
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)"
+    ]
+  }
+}
