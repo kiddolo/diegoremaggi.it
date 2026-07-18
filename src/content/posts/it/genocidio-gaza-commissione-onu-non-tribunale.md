@@ -4,6 +4,8 @@ description: 'Perché il rapporto ONU sul genocidio a Gaza non equivale a una se
 pubDate: 2026-07-15
 tags: [genocidio, Gaza, ONU, diritto internazionale, Israele]
 categories: [Analisi]
+heroImage: ../../../assets/images/posts/genocidio-gaza/gaza-2025-unsplash.webp
+heroImageAlt: 'Asino traina un carro a Gaza. Foto di Mohammed Ibrahim su Unsplash'
 toc: true
 ---
 
@@ -30,6 +32,10 @@ Per quanto riguarda i tempi, appare abbastanza prematuro parlare di genocidio ne
 **Gaza si trova oggi in una fase analoga ai primissimi anni degli altri casi di genocidio comprovato**: esistono accertamenti investigativi non vincolanti (Commissione ONU) e ordini cautelari della CIG basati sulla "plausibilità", ma manca — e mancherà per anni — una sentenza di merito.
 
 ### Ruanda (1994)
+
+![Campo profughi ruandese a Goma, Zaire, nell'agosto del 1994. Foto: United States Air Force - Official Photograph](https://upload.wikimedia.org/wikipedia/commons/8/89/SETAF_HISTORY_0004.JPEG)
+
+_Un convoglio di veicoli militari americani trasporta acqua potabile da Goma ai rifugiati ruandesi ospitati nel campo di Kimbumba, nello Zaire, nell'agosto del 1994. Foto: United States Air Force - Official Photograph_
 
 **Cronologia.** Il genocidio si svolge in circa 100 giorni, dal 7 aprile 1994 (dopo l'abbattimento dell'aereo del presidente Habyarimana, il 6 aprile) al 17 luglio 1994. Le stime accademiche oscillano **tra 500.000 e oltre 660.000 Tutsi uccisi** (la Costituzione ruandese parla di oltre un milione di morti, includendo gli Hutu moderati). Le milizie Interahamwe e la radio RTLM ("Radio Machete") ebbero un ruolo centrale.
 
