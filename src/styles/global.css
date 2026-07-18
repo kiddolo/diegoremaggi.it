@@ -433,7 +433,7 @@
   .prose-chirpy {
     @apply text-base-content;
     line-height: 1.75;
-    font-size: 1.0625rem;
+    font-size: 1.1875rem;
   }
 
   .prose-chirpy h1,
@@ -443,16 +443,16 @@
     @apply text-base-content scroll-mt-24 font-semibold tracking-tight;
   }
   .prose-chirpy h1 {
-    @apply mt-8 mb-4 text-3xl;
+    @apply mt-8 mb-4 text-4xl;
   }
   .prose-chirpy h2 {
-    @apply border-base-300 mt-10 mb-4 border-b pb-2 text-2xl;
+    @apply border-base-300 mt-10 mb-4 border-b pb-2 text-3xl;
   }
   .prose-chirpy h3 {
-    @apply mt-8 mb-3 text-xl;
+    @apply mt-8 mb-3 text-2xl;
   }
   .prose-chirpy h4 {
-    @apply mt-6 mb-2 text-lg;
+    @apply mt-6 mb-2 text-xl;
   }
   .prose-chirpy p {
     @apply my-4;
